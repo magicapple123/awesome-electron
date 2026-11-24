@@ -133,6 +133,7 @@ Made with Electron.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+- [ResumeForge](https://github.com/magicapple123/ResumeForge) - Local-first resume workbench with a fact ledger that blocks fabricated content, plus job-application tracking that stays on your machine.
 
 ### Closed Source
 
